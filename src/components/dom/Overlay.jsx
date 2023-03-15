@@ -38,7 +38,7 @@ function Overlay() {
          
 
       </div>
-      <div
+      {/* <div
       
        style={{
           position: 'absolute',
@@ -70,12 +70,12 @@ Our mosquito control service targets mosquitoes and other flying insects that ca
 At our pest control company, we're committed to providing the best protection for your home and family. Our team of experts will work with you to create a customized plan tailored to your specific needs. With our new services, you can trust that your home will be protected from pests all season long.
            </p>
        {/* <h1 style={{ marginLeft: '2rem' }}>PEST</h1>
-        <h1 style={{ margin: 0 }}>SOLUTIONS</h1> */}
-      </div>
+        <h1 style={{ margin: 0 }}>SOLUTIONS</h1> 
+      </div> */}
        <div
         style={{
           position: 'absolute',
-          top: 70,
+          bottom: 100,
           right: '2rem',
           display: 'flex',
           flexDirection: 'column',
