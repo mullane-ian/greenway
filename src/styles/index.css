@@ -68,7 +68,7 @@
   opacity: 1;
   width: 90vw;
   background-color: rgba(250, 235, 215, 0);
-  
+  height: 66vh;
 
 
 }
@@ -78,7 +78,7 @@
   background-color: #fff;
   border-radius: 4px;
   padding: 1rem;
-  max-height: 80vh;
+  max-height: 70vh;
   overflow-y: auto;
   word-wrap: break-word;
   color:black;
@@ -115,7 +115,7 @@
 
 @media screen and (max-width: 768px) {
   .container{
-    width: 200vw;
+    width: 100vw;
   }
  
   .modal-content {
