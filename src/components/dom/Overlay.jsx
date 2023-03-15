@@ -20,8 +20,8 @@ function Overlay() {
       <div
         style={{
           position: 'absolute',
-          top: 0,
-          left: 0,
+          top: 10,
+          left: 10,
           padding: '1rem',
           color: 'white',
           fontSize: '3rem',
@@ -33,7 +33,7 @@ function Overlay() {
         }}
       >
       
-        <h2 style={{ margin: 0, fontSize:'30px' }}>━━ GREENWAY PEST SOLUTION ━━</h2>
+        <h2 style={{ margin: 0, fontSize:'26px' }}>━━ GREENWAY PEST SOLUTION ━━</h2>
          {/* <h1 style={{ fontSize:'20px',margin: 0, color:'#011' }}> 2023 Premium Add-Ons</h1> */}
          
 
