@@ -42,7 +42,7 @@ function Overlay() {
       
        style={{
           position: 'absolute',
-          bottom: 30,
+          bottom: 40,
           right: 0,
           padding: '1rem',
           color: 'black',
@@ -74,7 +74,7 @@ At our pest control company, we're committed to providing the best protection fo
        <div
         style={{
           position: 'absolute',
-          bottom: 55,
+          bottom: 65,
           left: '2rem',
           display: 'flex',
           flexDirection: 'column',
