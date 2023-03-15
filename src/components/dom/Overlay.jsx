@@ -86,7 +86,7 @@ At our pest control company, we're committed to providing the best protection fo
           borderRadius: '0.5rem',
           boxShadow: '0 0 10px rgba(0, 0, 0, 0.3)',
           pointerEvents: 'auto', // Enable pointer events for CTA
-          marginBottom: '10px',
+          marginBottom: '20px',
           maxWidth:'40vw',
           maxHeight:'40vh'
         }}
