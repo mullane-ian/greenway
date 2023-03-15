@@ -33,7 +33,7 @@ function Overlay() {
         }}
       >
       
-        <h2 style={{ margin: 0, fontSize:'25px' }}>━━ GREENWAY PEST SOLUTION ━━</h2>
+        <h2 style={{ margin: 0, fontSize:'30px' }}>━━ GREENWAY PEST SOLUTION ━━</h2>
          {/* <h1 style={{ fontSize:'20px',margin: 0, color:'#011' }}> 2023 Premium Add-Ons</h1> */}
          
 
@@ -105,7 +105,7 @@ At our pest control company, we're committed to providing the best protection fo
           backgroundColor: 'white',
         }}
       />
-      <div
+      {/* <div
         style={{
           position: 'absolute',
           top: 0,
@@ -114,7 +114,7 @@ At our pest control company, we're committed to providing the best protection fo
           width: '1px',
           backgroundColor: 'white',
         }}
-      />
+      /> */}
     </div>
   );
 }
