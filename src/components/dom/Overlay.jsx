@@ -29,8 +29,8 @@ function Overlay() {
           textAlign:'center',
           // border: '1px solid white',
           margin: '10px',
-          maxWidth: '40vw'
-        }}
+          maxWidth: '40vw',
+       }}
       >
       
         <h2 style={{ margin: 0, fontSize:'26px' }}>━━ GREENWAY PEST SOLUTION ━━</h2>
@@ -42,7 +42,7 @@ function Overlay() {
       
        style={{
           position: 'absolute',
-          bottom: 40,
+          bottom: 60,
           right: 0,
           padding: '1rem',
           color: 'black',
@@ -51,8 +51,8 @@ function Overlay() {
          
           // border: '1px solid white',
           margin: '40px',
-          maxWidth: '40vw',
-          lineHeight:'30px',
+          maxWidth: '50vw',
+          lineHeight:'25px',
           border: '1px solid white',
           background:'#35764B',
           maxHeight:'30vh',
@@ -74,8 +74,8 @@ At our pest control company, we're committed to providing the best protection fo
        <div
         style={{
           position: 'absolute',
-          bottom: 65,
-          left: '2rem',
+          top: 70,
+          right: '2rem',
           display: 'flex',
           flexDirection: 'column',
           alignItems: 'center',
