@@ -47,7 +47,7 @@ const Modal = ({
       }}>
       {showModal && (
         <div className='container'>
-                  <div className={`modal `}>
+                  <div className={'modal'}>
           <div className="modal-overlay"></div>
           <div className="modal-content">
             <button className="modal-close" onClick={closeModal}>
