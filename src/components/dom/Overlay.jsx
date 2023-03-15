@@ -42,7 +42,7 @@ function Overlay() {
       
        style={{
           position: 'absolute',
-          bottom: 60,
+          bottom: '40 !important',
           right: 0,
           padding: '1rem',
           color: 'black',
@@ -50,12 +50,13 @@ function Overlay() {
           pointerEvents: 'auto',
          
           // border: '1px solid white',
-          margin: '40px',
+          marginBottom: '50px',
+          marginRight:'25px',
           maxWidth: '50vw',
-          lineHeight:'25px',
+          lineHeight:'24px',
           border: '1px solid white',
           background:'#35764B',
-          maxHeight:'30vh',
+          maxHeight:'25vh',
           overflowY: 'scroll',
           
         }}>
